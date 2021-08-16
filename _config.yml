@@ -3,7 +3,7 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-url:                   https://hyunew.github.io/
+url:                   https://vvsdleo.github.io
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
 # with a leading `/` but no trailing `/`. Use the empty string '' otherwise.
@@ -211,10 +211,10 @@ disqus:                khw11044
 # Before to use utterance, You must install utterance github app.
 # Check below link for detail.
 # https://utteranc.es/
-utterances:
-  repo:                "khw11044/blog-comments-repo"
-  issue-term:          "pathname"
-  theme:               "github-light"
+# utterances:
+#   repo:                "khw11044/blog-comments-repo"
+#   issue-term:          "pathname"
+#   theme:               "github-light"
 
 
 # Setting a tinyletter username will enable the newsletter subscription box.
