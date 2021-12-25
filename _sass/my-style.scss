@@ -146,6 +146,11 @@ a::after{
   margin-left: -1px;
 }
 
+// for top-menu 검색 꾸미기(높이 조절)
+.nav-btn-bar{
+  height: 3rem;
+}
+
 // 상단 메뉴바 옵션, 스타일
 .navbar.fixed-top>.content::before {
   bottom: 1px;

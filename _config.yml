@@ -439,4 +439,14 @@ jekyll_compose:
         - title: Project Link
           url: https://example.com
 
-
+# 검색기능 추가
+# pages : false = pages 레이아웃에 해당하는 일반 html페이지는 검색 안함(포스트 내용 검색에 집중)
+# exclude 부분의 search.html, index.html, tags.html 페이지는 검색에서 제외
+tipue_search:
+  include:
+    pages: false
+    collections: []
+  exclude:
+    files: []
+    categories: []
+    tags: []
