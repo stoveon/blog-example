@@ -2,13 +2,13 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              Hyunwoo Kim
-  email:             khw11044@gmail.com
+  name:              Jieun Jeong
+  email:             stopluna@naver.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    풀스택 개발자를 꿈꾸는 AI 대학원생
+    백앤드 개발자에서 풀스택 개발자를 꿈꾸는 신입 개발자 정지은 입니다!
 
     Please check my [CV](/public.CV.pdf) to find out for more about me !
 
@@ -24,10 +24,10 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    instagram:       hyunew_dude
-    github:          khw11044
-    email:           mailto:khw11044@gmail.com
-    rss:             https://vvsdleo.github.io
+    instagram:       stove_o_n
+    github:          stoveon
+    email:           mailto:stopluna4@naver.com
+    rss:             https://blog.github.io/stopluna
     # twitter:         <username>
     # facebook:        <username>
     # google:          <number>
@@ -67,8 +67,8 @@ author1:
 
 # Another author (optional)
 author2:
-  name:              Hyunew park
-  email:             <khw7236@gmail.com>
+  name:              Jieun Jeong
+  email:             <stopluna@naver.com>
   about:             |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit,
     sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

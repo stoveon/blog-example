@@ -3,7 +3,7 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-url:                   https://vvsdleo.github.io
+# url:                   https://vvsdleo.github.io
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
 # with a leading `/` but no trailing `/`. Use the empty string '' otherwise.
@@ -35,14 +35,14 @@ keywords:              [AI, blog, backend, computer science, data science]
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:              /assets/img/logo.png
+logo:              /assets/img/logo.jpg
 
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                Hyunwoo Kim
-  email:               khw11044@gmail.com
+  name:                Jieun Jeong
+  email:               stopluna@naver.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -75,7 +75,7 @@ legal:
     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2020. All rights reserved.
+copyright:             © 2021. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
@@ -206,13 +206,13 @@ comments:
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-disqus:                khw11044
+disqus:                stoveon
 
 # Before to use utterance, You must install utterance github app.
 # Check below link for detail.
 # https://utteranc.es/
 # utterances:
-#   repo:                "khw11044/blog-comments-repo"
+#   repo:                "stoveon/blog-comments-repo"
 #   issue-term:          "pathname"
 #   theme:               "github-light"
 
