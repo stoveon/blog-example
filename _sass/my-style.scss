@@ -197,6 +197,10 @@ pre > code {
   display: none;
 }
 
+a.external::after, a::after {
+  display: none;
+}
+
 
 // for my collapsible
 .collapsible-title:hover {
