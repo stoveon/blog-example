@@ -180,6 +180,22 @@ pre > code {
   text-align: left;
   margin-left: 30%;
 }
+.submenu.menu-wrapper{
+  right: 10%;
+  position: absolute;
+  background-color: rgb(60, 10, 90);
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgb(255, 70, 255);
+  width: 10rem;
+  z-index: 2;
+  ul{
+    margin: 0;
+    padding: 0 1.25rem;
+  }
+}
+.submenu.menu-wrapper.hide{
+  display: none;
+}
 
 
 // for my collapsible
