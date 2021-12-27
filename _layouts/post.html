@@ -44,6 +44,8 @@ layout: base
   {% when 'related' %}
     {% include components/related-posts.html %}
   <!--when 'comments'-->
+  {% when 'comments' %}
+    {% include my-comments.html %}
   {% else %}
   {% endcase %}
 {% endfor %}
