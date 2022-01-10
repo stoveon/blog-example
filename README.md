@@ -1,6 +1,3 @@
 # from stoveon's Github Pages Example
 
-# <https://khw11044.github.io>
-
----
-Powered By [Hydejack-Starter-Kit](https://github.com/hydecorp/hydejack-starter-kit)
+### 예시 깃블로그에 댓글을 달면 blog-eample-comments에 글이 남겨집니다.
